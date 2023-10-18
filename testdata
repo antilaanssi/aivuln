@@ -26,3 +26,17 @@ unlabeled:
 000000476822.jpg
 000000478127.jpg
 000000484630.jpg
+
+val:
+
+http://images.cocodataset.org/val2017/000000084170.jpg
+http://images.cocodataset.org/val2017/000000088462.jpg
+http://images.cocodataset.org/val2017/000000124798.jpg
+http://images.cocodataset.org/val2017/000000138979.jpg
+http://images.cocodataset.org/val2017/000000142585.jpg
+http://images.cocodataset.org/val2017/000000155341.jpg
+http://images.cocodataset.org/val2017/000000192607.jpg
+http://images.cocodataset.org/val2017/000000269942.jpg
+http://images.cocodataset.org/val2017/000000292997.jpg
+http://images.cocodataset.org/val2017/000000376625.jpg
+http://images.cocodataset.org/val2017/000000385190.jpg
